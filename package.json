@@ -1,0 +1,26 @@
+{
+  "name": "itexmo-node",
+  "version": "1.0.0",
+  "description": "an sms service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrlzmndz/itexmo-node.git"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "chrlzmndz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrlzmndz/itexmo-node/issues"
+  },
+  "homepage": "https://github.com/chrlzmndz/itexmo-node#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "qs": "^6.10.3"
+  }
+}
