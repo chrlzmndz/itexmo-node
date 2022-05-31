@@ -16,7 +16,7 @@ In Node.js:
 
 ```js
 // other parameters: priority String, senderID String, server String
-const itexmo = require('itexmo')({
+const itexmo = require('itexmo-node')({
   apiCode: 'YOUR_API_CODE',
   password: 'YOUR_PASSWORD'
 });
