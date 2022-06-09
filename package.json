@@ -1,6 +1,6 @@
 {
   "name": "itexmo-node",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "an sms service",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meoxys/itexmo-node.git"
+    "url": "git+https://github.com/kanamui/itexmo-node.git"
   },
   "keywords": [
     "sms"
   ],
-  "author": "meoxys",
+  "author": "kanamui",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meoxys/itexmo-node/issues"
+    "url": "https://github.com/kanamui/itexmo-node/issues"
   },
-  "homepage": "https://github.com/meoxys/itexmo-node#readme",
+  "homepage": "https://github.com/kanamui/itexmo-node#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "qs": "^6.10.3"
